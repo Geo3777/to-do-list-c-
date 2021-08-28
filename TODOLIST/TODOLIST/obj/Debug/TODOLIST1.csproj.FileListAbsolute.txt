@@ -1,0 +1,78 @@
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csprojAssemblyReference.cache
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form1.resources
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form2.resources
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form3.resources
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form4.resources
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form5.resources
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST.Properties.Resources.resources
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csproj.GenerateResource.cache
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csproj.CoreCompileInputs.cache
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\bin\Debug\TODOLIST.exe.config
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\bin\Debug\TODOLIST.exe
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\bin\Debug\TODOLIST.pdb
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST.exe
+C:\Users\Otgon\Desktop\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST.pdb
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\bin\Debug\Database1.mdf
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\bin\Debug\Database1_log.ldf
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\bin\Debug\TODOLIST.exe.config
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\bin\Debug\TODOLIST.exe
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\bin\Debug\TODOLIST.pdb
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csprojAssemblyReference.cache
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form1.resources
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form2.resources
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form3.resources
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form4.resources
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form5.resources
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST.Properties.Resources.resources
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csproj.GenerateResource.cache
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csproj.CoreCompileInputs.cache
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST.exe
+C:\Users\Otgon\Desktop\Baza de date\proiect tappp\TODOLIST\TODOLIST\obj\Debug\TODOLIST.pdb
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csprojAssemblyReference.cache
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form1.resources
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form2.resources
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form3.resources
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form4.resources
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form5.resources
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST.Properties.Resources.resources
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csproj.GenerateResource.cache
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csproj.CoreCompileInputs.cache
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST.exe
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST.pdb
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\Database1.mdf
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\Database1_log.ldf
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\TODOLIST.exe.config
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\TODOLIST.exe
+C:\Users\raduc\OneDrive\Desktop\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\TODOLIST.pdb
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\Database1.mdf
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\Database1_log.ldf
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\TODOLIST.exe.config
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\TODOLIST.exe
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\TODOLIST.pdb
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form1.resources
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form2.resources
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form3.resources
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form4.resources
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form5.resources
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST.Properties.Resources.resources
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST.exe
+C:\Users\Diana\Desktop\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST.pdb
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csprojAssemblyReference.cache
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form1.resources
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form2.resources
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form3.resources
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form4.resources
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\ToDoLIst.Form5.resources
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST.Properties.Resources.resources
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csproj.GenerateResource.cache
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST1.csproj.CoreCompileInputs.cache
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST.exe
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\obj\Debug\TODOLIST.pdb
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\Database1.mdf
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\Database1_log.ldf
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\TODOLIST.exe.config
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\TODOLIST.exe
+C:\Users\Otgon\Desktop\TAP\proiect tappp11\TODOLIST\TODOLIST\bin\Debug\TODOLIST.pdb
